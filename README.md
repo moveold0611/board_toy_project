@@ -13,6 +13,4 @@ Board Toy Project
 프로젝트 기획서
 ------------------------   
 
-Link: [기획서][notionlink]
-
-[notionlink]: "https://whispering-school-6df.notion.site/Toy-Project-21c2a3af825d42ba80fed608be92561f?pvs=74 "Go google
+[기획서]: https://whispering-school-6df.notion.site/Toy-Project-21c2a3af825d42ba80fed608be92561f?pvs=74 "Notion"
