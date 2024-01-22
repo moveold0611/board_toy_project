@@ -23,4 +23,4 @@ Link: [기획서][notionlink]
 
 # ERD 설계
 
-![Alt text](./img/ERD_1 "ERD 초기 설계")
+![Alt text](./img/ERD_1.png "ERD 초기 설계")
