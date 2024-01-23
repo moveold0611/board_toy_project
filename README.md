@@ -15,7 +15,7 @@ Board Toy Project
 프로젝트 기획서
 ------------------------   
 
-Link: [기획서][notionlink]
+Link: [전체 기획서][notionlink]
 
 [notionlink]: https://whispering-school-6df.notion.site/Toy-Project-21c2a3af825d42ba80fed608be92561f?pvs=74 "Notion"
 
@@ -30,3 +30,11 @@ Link: [기획서][notionlink]
 ERD 설계
 
 ![Alt text](./img/ERD_1.png "ERD 초기 설계")
+
+</br>
+
+API 설계
+
+Link: [API 설계서][notionlink]
+
+[notionlink]: https://whispering-school-6df.notion.site/Toy-Project-21c2a3af825d42ba80fed608be92561f?pvs=74](https://whispering-school-6df.notion.site/API-7982a9cae4314fb4995aed115c80bc80?pvs=25)](https://whispering-school-6df.notion.site/API-7982a9cae4314fb4995aed115c80bc80?pvs=25)https://whispering-school-6df.notion.site/API-7982a9cae4314fb4995aed115c80bc80?pvs=25 "Notion"
