@@ -35,6 +35,6 @@ ERD 설계
 
 API 설계
 
-Link: [API 설계서][notionlink]
+Link: [API 설계서][notionlink2]
 
-[notionlink]: https://www.notion.so/API-7982a9cae4314fb4995aed115c80bc80?pvs=4 "Notion"
+[notionlink2]: https://www.notion.so/API-7982a9cae4314fb4995aed115c80bc80?pvs=4 "Notion"
