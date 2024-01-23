@@ -37,4 +37,4 @@ API 설계
 
 Link: [API 설계서][notionlink]
 
-[notionlink]: https://whispering-school-6df.notion.site/Toy-Project-21c2a3af825d42ba80fed608be92561f?pvs=74](https://whispering-school-6df.notion.site/API-7982a9cae4314fb4995aed115c80bc80?pvs=25)](https://whispering-school-6df.notion.site/API-7982a9cae4314fb4995aed115c80bc80?pvs=25)https://whispering-school-6df.notion.site/API-7982a9cae4314fb4995aed115c80bc80?pvs=25 "Notion"
+[notionlink]: https://www.notion.so/API-7982a9cae4314fb4995aed115c80bc80?pvs=4 "Notion"
