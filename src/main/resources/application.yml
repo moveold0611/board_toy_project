@@ -1,0 +1,13 @@
+spring:
+  profiles.include:
+    - secret
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+mybatis:
+  mapper-locations:
+    - /mappers/*.xml
+
+
+
